@@ -7,8 +7,9 @@ Understanding population distribution is crucial for making data-driven decision
 Create compelling visual representations of population data.
 Analyze trends in demographics using statistical insights.
 Utilize real-world data from the World Bank Population Dataset.
+
 📊 Visualizations
-This project leverages bar charts and histograms to highlight key population patterns:
+This project leverages bar charts, histograms and heatmap to highlight key population patterns:
 
 Bar Charts – Compare categorical variables like gender distribution.
 Histograms – Display the distribution of continuous variables like age.
