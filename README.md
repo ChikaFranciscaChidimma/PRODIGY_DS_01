@@ -1,4 +1,5 @@
 📊 Population Distribution Visualization
+
 🚀 Task Overview
 Understanding population distribution is crucial for making data-driven decisions. This project visualizes the distribution of a categorical or continuous variable—such as age groups or gender proportions—using bar charts and histograms.
 
@@ -11,8 +12,6 @@ This project leverages bar charts and histograms to highlight key population pat
 
 Bar Charts – Compare categorical variables like gender distribution.
 Histograms – Display the distribution of continuous variables like age.
-🎯 Sample Output
-Here’s an example visualization generated from the dataset:
 
 🛠 Tools & Technologies
 Python – Data analysis and visualization
@@ -24,4 +23,4 @@ Jupyter Notebook – Interactive data exploration
 Want to enhance this project? Feel free to fork the repo, explore, and submit a pull request!
 
 📜 License
-This project is open-source and licensed under the MIT License.
+This project is open-source and licensed under the Apache License 2.0.
